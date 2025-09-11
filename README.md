@@ -332,6 +332,9 @@ your local repository.
 
 Let's move on to a couple more small programming challenges for you to try out, which are similar to Fizz Buzz.
 
+# FizzBuzz Project
+Edited by Qiyu for Task 3.4
+
 # Technical interviews  (and Java practice)
 
 Technical interviews for developer internships often have you write
